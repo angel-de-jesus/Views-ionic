@@ -1,0 +1,7 @@
+{
+  "name": "Seguimiento",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
